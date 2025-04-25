@@ -1,0 +1,10 @@
+https://tapast.s3.us-east-2.amazonaws.com/imb/1.png,Inteligencia artificial
+https://tapast.s3.us-east-2.amazonaws.com/imb/2.png,Inteligencia artificial
+https://tapast.s3.us-east-2.amazonaws.com/imb/3.png,Inteligencia artificial
+https://tapast.s3.us-east-2.amazonaws.com/imb/4.png,Inteligencia artificial
+https://tapast.s3.us-east-2.amazonaws.com/imb/5.png,Inteligencia artificial
+https://tapast.s3.us-east-2.amazonaws.com/imb/6.png,Inteligencia artificial
+https://tapast.s3.us-east-2.amazonaws.com/imb/7.png,Inteligencia artificial
+https://tapast.s3.us-east-2.amazonaws.com/imb/8.png,Inteligencia artificial
+https://tapast.s3.us-east-2.amazonaws.com/comprimidas/[Camile_Coudari]_Apertura_En_El_Ajedrez_Para_Todos(z-lib.org)_1.jpg,Ajedrez
+https://tapast.s3.us-east-2.amazonaws.com/comprimidas/[Chandler_Murray]_Tácticas_de_Ajedrez_para_Niños(z-lib.org) (1)_1.jpg,Ajedrez
