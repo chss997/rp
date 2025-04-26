@@ -12,16 +12,4 @@ https://tapast.s3.us-east-2.amazonaws.com/imb/3.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/4.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/5.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/6.jpeg,Historia
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/[Camile_Coudari]_Apertura_En_El_Ajedrez_Para_Todos(z-lib.org)_1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/[Chandler_Murray]_Tácticas_de_Ajedrez_para_Niños(z-lib.org) (1)_1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/ajedrez-artistico-guil-russek_1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/Ajedrez - El Arte de la Defensa.Ilia Kan_1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/Ajedrez-entrenamiento-basico_1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/ajedrez - errores tipicos(1)_1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/ajedrez-espectacular-aldo-haik-carlos-fornasari_1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/Ajedrez - Guia para Aperturas de Doble Peon Rey_1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/ajedrez-hipermoderno-ii-dirigido-por-alekhine-r-aguilera-y-f-j-perez_1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/ajedrez - keres & nunn - en busca de la perfección (1997)_1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/ajedrez - lev_polugaevsky_-_el_laberinto_siciliano__vol 1__spanish__1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/Ajedrez-PartidasClasicas_1.jpg,Ajedrez
-https://tapast.s3.us-east-2.amazonaws.com/comprimidas/ajedrez-por-campeones-bruce-pandolfini_1.jpg,Ajedrez
+
