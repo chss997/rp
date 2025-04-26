@@ -10,7 +10,7 @@
 3,28$$$https://tapast.s3.us-east-2.amazonaws.com/imb/3.jpeg$$$Historia
 0,92$$$https://tapast.s3.us-east-2.amazonaws.com/imb/4.jpeg$$$Historia
 32,85$$$https://tapast.s3.us-east-2.amazonaws.com/imb/5.jpeg$$$Historia
-21,28$$$https://tapast.s3.us-east-2.amazonaws.com/imb/6.jpeg$$$Medicina
+21,28$$$https://tapast.s3.us-east-2.amazonaws.com/imb/6.jpeg$$$Medicina$$$Independencia es la condición de una persona, un grupo o una nación que no depende de otro para tomar decisiones o actuar. En un sentido político, la independencia suele referirse al momento en que un territorio deja de estar bajo el control de otro (por ejemplo, de una colonia o un imperio) y pasa a autogobernarse, creando sus propias leyes, gobierno y sistema de organización.
 4,81$$$https://tapast.s3.us-east-2.amazonaws.com/imb/20.jpeg$$$Policial
 25,32$$$https://tapast.s3.us-east-2.amazonaws.com/imb/22.jpeg$$$Historia
 20,22$$$https://tapast.s3.us-east-2.amazonaws.com/imb/23.jpeg$$$Historia
