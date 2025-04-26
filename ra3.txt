@@ -1,11 +1,11 @@
-https://tapast.s3.us-east-2.amazonaws.com/imb/1.png,Inteligencia artificial
-https://tapast.s3.us-east-2.amazonaws.com/imb/2.png,Inteligencia artificial
-https://tapast.s3.us-east-2.amazonaws.com/imb/3.png,Inteligencia artificial
-https://tapast.s3.us-east-2.amazonaws.com/imb/4.png,Inteligencia artificial
-https://tapast.s3.us-east-2.amazonaws.com/imb/5.png,Inteligencia artificial
-https://tapast.s3.us-east-2.amazonaws.com/imb/6.png,Inteligencia artificial
-https://tapast.s3.us-east-2.amazonaws.com/imb/7.png,Inteligencia artificial
-https://tapast.s3.us-east-2.amazonaws.com/imb/8.png,Inteligencia artificial
+https://tapast.s3.us-east-2.amazonaws.com/imb/1.png,Inteligencia artificial,informatica,pc
+https://tapast.s3.us-east-2.amazonaws.com/imb/2.png,Inteligencia artificial,informatica,pc
+https://tapast.s3.us-east-2.amazonaws.com/imb/3.png,Inteligencia artificial,informatica,pc
+https://tapast.s3.us-east-2.amazonaws.com/imb/4.png,Inteligencia artificial,informatica,pc
+https://tapast.s3.us-east-2.amazonaws.com/imb/5.png,Inteligencia artificial,informatica,pc
+https://tapast.s3.us-east-2.amazonaws.com/imb/6.png,Inteligencia artificial,informatica,pc
+https://tapast.s3.us-east-2.amazonaws.com/imb/7.png,Inteligencia artificial,informatica,pc
+https://tapast.s3.us-east-2.amazonaws.com/imb/8.png,Inteligencia artificial,informatica,pc
 https://tapast.s3.us-east-2.amazonaws.com/imb/1.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/2.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/3.jpeg,Historia
