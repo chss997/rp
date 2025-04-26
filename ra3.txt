@@ -17,7 +17,6 @@ https://tapast.s3.us-east-2.amazonaws.com/imb/22.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/23.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/24.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/25.jpeg,Historia
-https://tapast.s3.us-east-2.amazonaws.com/imb/27.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/28.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/29.jpeg,Facebook
 https://tapast.s3.us-east-2.amazonaws.com/imb/30.jpeg,Carnegie
