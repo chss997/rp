@@ -13,7 +13,6 @@ https://tapast.s3.us-east-2.amazonaws.com/imb/4.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/5.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/6.jpeg,Medicina
 https://tapast.s3.us-east-2.amazonaws.com/imb/20.jpeg,Policial
-https://tapast.s3.us-east-2.amazonaws.com/imb/21.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/22.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/23.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/24.jpeg,Historia
