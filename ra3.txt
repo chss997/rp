@@ -12,4 +12,22 @@ https://tapast.s3.us-east-2.amazonaws.com/imb/3.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/4.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/5.jpeg,Historia
 https://tapast.s3.us-east-2.amazonaws.com/imb/6.jpeg,Historia
+https://tapast.s3.us-east-2.amazonaws.com/imb/20.jpeg,Historia
+https://tapast.s3.us-east-2.amazonaws.com/imb/21.jpeg,Historia
+https://tapast.s3.us-east-2.amazonaws.com/imb/22.jpeg,Historia
+https://tapast.s3.us-east-2.amazonaws.com/imb/23.jpeg,Historia
+https://tapast.s3.us-east-2.amazonaws.com/imb/24.jpeg,Historia
+https://tapast.s3.us-east-2.amazonaws.com/imb/25.jpeg,Historia
+https://tapast.s3.us-east-2.amazonaws.com/imb/26.jpeg,Historia
+https://tapast.s3.us-east-2.amazonaws.com/imb/27.jpeg,Historia
+https://tapast.s3.us-east-2.amazonaws.com/imb/28.jpeg,Historia
+https://tapast.s3.us-east-2.amazonaws.com/imb/29.jpeg,Facebook
+https://tapast.s3.us-east-2.amazonaws.com/imb/30.jpeg,Carnegie
+https://tapast.s3.us-east-2.amazonaws.com/imb/31.jpeg,Literario
+https://tapast.s3.us-east-2.amazonaws.com/imb/32.jpeg,Romance
+https://tapast.s3.us-east-2.amazonaws.com/imb/33.jpeg,Tecnico
+https://tapast.s3.us-east-2.amazonaws.com/imb/34.jpeg,Academico
+https://tapast.s3.us-east-2.amazonaws.com/imb/35.jpeg,Social
+https://tapast.s3.us-east-2.amazonaws.com/imb/36.jpeg,Comunismo
+https://tapast.s3.us-east-2.amazonaws.com/imb/37.jpeg,Arte
 
