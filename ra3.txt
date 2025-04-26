@@ -1,5 +1,5 @@
 0,46$$$https://tapast.s3.us-east-2.amazonaws.com/imb/2.png$$$Inteligencia artificial$$$Independencia es la condición de una persona, un grupo o una nación que no depende de otro para tomar decisiones o actuar. En un sentido político, la independencia suele referirse al momento en que un territorio deja de estar bajo el control de otro (por ejemplo, de una colonia o un imperio) y pasa a autogobernarse, creando sus propias leyes, gobierno y sistema de organización.
-0,50$$$https://tapast.s3.us-east-2.amazonaws.com/imb/3.png$$$Inteligencia artificial
+0,50$$$https://tapast.s3.us-east-2.amazonaws.com/imb/3.png$$$Inteligencia artificial$$$Independencia es la condición de una persona, un grupo o una
 0,81$$$https://tapast.s3.us-east-2.amazonaws.com/imb/4.png$$$Inteligencia artificial
 0,58$$$https://tapast.s3.us-east-2.amazonaws.com/imb/5.png$$$Inteligencia artificial
 0,37$$$https://tapast.s3.us-east-2.amazonaws.com/imb/6.png$$$Inteligencia artificial
