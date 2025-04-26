@@ -26,4 +26,5 @@ https://tapast.s3.us-east-2.amazonaws.com/imb/33.jpeg,Tecnico
 https://tapast.s3.us-east-2.amazonaws.com/imb/35.jpeg,Social
 https://tapast.s3.us-east-2.amazonaws.com/imb/36.jpeg,Comunismo
 https://tapast.s3.us-east-2.amazonaws.com/imb/37.jpeg,Arte
+https://tapast.s3.us-east-2.amazonaws.com/imb/38.jpeg,Arte
 
